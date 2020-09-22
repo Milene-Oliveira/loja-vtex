@@ -1,5 +1,5 @@
 {
-  "store.home": {
+  "store.home":{
     "blocks":[
       "rich-text",
       "info-card#button-right",
@@ -16,11 +16,11 @@
 //      "subhead": "Give your kitchen a boho style adding vintage apparels.<br>Available until January 2020.",
 //      "callToActionMode": "button",
 //      "callToActionText": "Explore",
-//      "callToActionUrl": "/sale/d",
+//      "callToActionUrl": "/sale/d"
 //      "textAlignment": "center"
 //    },
 
- "info-card#button-left": {
+ "info-card#button-left":{
       "props": {
         "isFullModeStyle": false, 
         "textPosition": "left", //posição
