@@ -1,9 +1,9 @@
 {
-  "store.home":{
-    "blocks":[
+  "store.home": {
+    "blocks": [
       "rich-text",
       "info-card#button-right",
-      "info-card#button-left "
+      "info-card#button-left"
     ]
   },
   
@@ -20,7 +20,7 @@
 //      "textAlignment": "center"
 //    },
 
- "info-card#button-left":{
+ "info-card#button-left": {
       "props": {
         "isFullModeStyle": false, 
         "textPosition": "left", //posição
