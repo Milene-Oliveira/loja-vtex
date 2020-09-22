@@ -3,7 +3,7 @@
     "blocks": [
       "rich-text",
       "info-card#button-right",
-      "info-card#link-left"
+      "info-card#button-left"
     ]
   },
   
@@ -19,7 +19,7 @@
       "callToActionUrl": "/sale/d",
       "textAlignment": "center"
     },
-    "info-card#link-left": {
+    "info-card#button-left": {
       "props": {
         "isFullModeStyle": false, 
         "textPosition": "left", //posição
