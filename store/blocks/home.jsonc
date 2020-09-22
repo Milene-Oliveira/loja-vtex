@@ -1,6 +1,6 @@
 {
   "store.home": {
-    "blocks": [
+    "blocks.jsonc": [
       "rich-text",
       "info-card#button-right",
       "info-card#button-left"
@@ -19,6 +19,7 @@
 //      "callToActionUrl": "/sale/d",
 //      "textAlignment": "center"
 //    },
+
  "info-card#button-left": {
       "props": {
         "isFullModeStyle": false, 
