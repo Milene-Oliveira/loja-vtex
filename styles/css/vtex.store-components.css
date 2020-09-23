@@ -1,0 +1,12 @@
+
+.infoCar#button-right {
+    font-family: serif;
+    font-size: 2.25rem;
+    font-weight: normal;
+    color: rgb(0, 0, 0);
+    border: 2px solid black;
+    padding: 24px;
+    max-width: 1260px;
+    margin: 0;
+
+}
