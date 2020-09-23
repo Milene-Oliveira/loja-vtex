@@ -4,8 +4,8 @@
       "rich-text",
       "info-card#button-right",
       "info-card#button-left"
-    ]
-  },
+    ],
+  
   
 //  "info-card#button-right": {
 //    "props": {
@@ -20,6 +20,7 @@
 //      "textAlignment": "center"
 //    },
 
+   
  "info-card#button-left": {
       "props": {
         "isFullModeStyle": false, 
@@ -34,3 +35,4 @@
       }
     }
   }
+}
