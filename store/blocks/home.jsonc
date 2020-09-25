@@ -1,16 +1,18 @@
-{
-  "store.home": { 
+
+  { 
+    "store.home": {
+
     "blocks": [
       "flex-layout.row",
-      "flex-layout.col"
+      "shelf",
+      "slider-layout#home"
     ]
   },
-
   "flex-layout.row":{
     "children": [
       "info-card#rethink",
       "flex-layout.col"
-     ]
+    ]
   },
   "flex-layout.col":{
     "children": [
@@ -22,7 +24,7 @@
     "props": {
       "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/utensilios-cozinha-min.png",
       "isFullModeStyle": true,
-      "headline": "Time to rethink your milene linda",
+      "headline": "Time to rethink your kitchen",
       "callToActionText": "Discover",
       "textPosition": "center"
     }
@@ -40,6 +42,3 @@
     }
   }
 }
-
-  
-
